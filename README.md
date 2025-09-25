@@ -1,2 +1,2 @@
  # Hello World Project
-This is work for Github workflow.
+This is work for Github workflows.
